@@ -13,6 +13,7 @@ export default function HomePage() {
       <StatsSection />
       <VideoSection />
       <Footer />
+      
     </main>
   )
 }
