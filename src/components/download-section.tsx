@@ -66,7 +66,7 @@ export function DownloadSection() {
                       <p className="text-xl font-bold">App Store</p>
                     </div>
                     <Button className="animate-pulse-green cursor-pointer">
-                      <a href="https://hosta-chi.vercel.app/"   target="_blank">
+                      <a href="https://apps.apple.com/in/app/hosta/id6755623557"   target="_blank">
 
                       Download
                       </a>
