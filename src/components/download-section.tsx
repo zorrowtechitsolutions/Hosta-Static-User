@@ -5,6 +5,7 @@ import Image from "next/image"
 import app from "@/../public/app.png"
 
 
+
 export function DownloadSection() {
   return (
     <section className="py-20 from-primary/5 via-card to-primary/5">
